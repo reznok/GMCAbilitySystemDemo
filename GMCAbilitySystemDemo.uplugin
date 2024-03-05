@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GMCAbilitySystemDemo",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Reznok",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+	{
+		"Name": "GMC",
+		"Enabled": true
+	},
+	{
+		"Name": "GMCAbilitySystem",
+		"Enabled": true
+	}
+	]
+}
